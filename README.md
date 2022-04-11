@@ -1,6 +1,7 @@
 ## Phase-1 Project: Text-file Based Management System 
 
-**Problem Statement**: Create a Text-file Based System for Storing and Updating Teacher records. **Description:** Write a program that will allow storing and updating teacher data using text files.  
+**Problem Statement**: Create a Text-file Based System for Storing and Updating Teacher records. 
+**Description:** Write a program that will allow storing and updating teacher data using text files.  
 
 **Requirements**:  
 
