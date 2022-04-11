@@ -107,7 +107,7 @@ namespace TFMS
                             if (trimmedLine.ToLower().Contains(fiter.ToLower()))
                             {
                                 data.Add($"{counter},{d[0]},{d[1]},{d[2].Split('/')[0]}/{d[2].Split('/')[1]}");
-                                counter++;
+                                // counter++;
                             }
                             counter++;
                         }
