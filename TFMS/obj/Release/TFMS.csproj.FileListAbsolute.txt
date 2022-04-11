@@ -1,0 +1,13 @@
+D:\SimpliLearn\C#\TFMS\TFMS\bin\Release\TFMS.exe.config
+D:\SimpliLearn\C#\TFMS\TFMS\bin\Release\TFMS.exe.manifest
+D:\SimpliLearn\C#\TFMS\TFMS\bin\Release\TFMS.application
+D:\SimpliLearn\C#\TFMS\TFMS\bin\Release\TFMS.exe
+D:\SimpliLearn\C#\TFMS\TFMS\bin\Release\TFMS.pdb
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.csproj.AssemblyReference.cache
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.TrustInfo.xml
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.exe.manifest
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.application
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.exe
+D:\SimpliLearn\C#\TFMS\TFMS\obj\Release\TFMS.pdb
