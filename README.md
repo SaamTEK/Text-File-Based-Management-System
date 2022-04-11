@@ -1,17 +1,17 @@
-﻿Phase 1: Project 
+## Phase-1 Project: Text-file Based Management System 
 
-Text-file Based Management System 
+**Problem Statement**: Create a Text-file Based System for Storing and Updating Teacher records. **Description:** Write a program that will allow storing and updating teacher data using text files.  
 
-**Problem Statement**: Create a Text-file Based System for Storing and Updating Teacher records. **Description:** Write a program that will allow storing and updating teacher data using text files.  **Requirements:**  
+**Requirements**:  
 
 - Must be a **Visual Studio Windows Console Project** 
 
-**Class Format:**  
+**Class Format**:  
 
-- Should store the following data for a teacher record:** 
-- ID** 
-- Name** 
-- Class & Section** 
+- Should store the following data for a teacher record: 
+  - **ID** 
+  - **Name** 
+  - **Class & Section** 
 
 **Solution:** For the above problem statement, the solution has been designed in a way which abides by the objected oriented programming (OOP) paradigm which includes the demonstration of OOP principles such as Data Encapsulation, Data Abstraction, Code Reusability, etc. 
 
@@ -42,5 +42,6 @@ The solution is designed with three classes which include:
 - The UpdateTeacher() function takes in user input to select a teacher record to update using index value, upon selecting, the selected teacher’s row is returned as a table to show the user which teacher record is being modified. After which it takes user input to update any or none of the fields of the teacher record and returns the entire table back with the updated record. 
 - The DeleteTeacher() function takes in user input to select a teacher record to delete using index value, upon selecting, the selected teacher’s row is returned as a table to show the user which teacher record is deleted. It also returns the entire table back to provide feedback about the status of deletion to the user. 
 
-**GitHub Repository Link**:[ https://github.com/SaamTEK/Text-File-Basesd-Management-System ](https://github.com/SaamTEK/Text-File-Basesd-Management-System)
-M, Saathvik | TEXT-FILE BASED MANAGEMENT SYSTEM ![](Aspose.Words.c72a144f-8f44-468e-938d-808c7f8543dc.001.png)
+---
+
+M, Saathvik | TEXT-FILE BASED MANAGEMENT SYSTEM
